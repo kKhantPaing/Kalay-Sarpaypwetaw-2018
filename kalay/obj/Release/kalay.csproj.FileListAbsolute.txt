@@ -1,0 +1,39 @@
+C:\Users\KKP\Desktop\kalay\kalay\bin\Release\kalay.exe.config
+C:\Users\KKP\Desktop\kalay\kalay\bin\Release\kalay.exe
+C:\Users\KKP\Desktop\kalay\kalay\bin\Release\kalay.pdb
+C:\Users\KKP\Desktop\kalay\kalay\bin\Release\MaterialSkin.dll
+C:\Users\KKP\Desktop\kalay\kalay\obj\Release\kalay.csprojResolveAssemblyReference.cache
+C:\Users\KKP\Desktop\kalay\kalay\obj\Release\Material.Form1.resources
+C:\Users\KKP\Desktop\kalay\kalay\obj\Release\Material.Form2.resources
+C:\Users\KKP\Desktop\kalay\kalay\obj\Release\Material.Form3.resources
+C:\Users\KKP\Desktop\kalay\kalay\obj\Release\Material.Form4.resources
+C:\Users\KKP\Desktop\kalay\kalay\obj\Release\Material.Form5.resources
+C:\Users\KKP\Desktop\kalay\kalay\obj\Release\Material.Properties.Resources.resources
+C:\Users\KKP\Desktop\kalay\kalay\obj\Release\Material.ScoreBoard.resources
+C:\Users\KKP\Desktop\kalay\kalay\obj\Release\kalay.csproj.GenerateResource.Cache
+C:\Users\KKP\Desktop\kalay\kalay\obj\Release\kalay.exe
+C:\Users\KKP\Desktop\kalay\kalay\obj\Release\kalay.pdb
+C:\Users\KKP\Desktop\kalay\kalay\obj\Release\Interop.WMPLib.dll
+C:\Users\KKP\Desktop\kalay\kalay\obj\Release\AxInterop.WMPLib.dll
+C:\Users\KKP\Desktop\kalay\kalay\obj\Release\kalay.csproj.ResolveComReference.cache
+C:\Users\KKP\Desktop\kalay\kalay\bin\Release\Interop.WMPLib.dll
+C:\Users\KKP\Desktop\kalay\kalay\bin\Release\AxInterop.WMPLib.dll
+C:\Users\KKP\Desktop\My Data\kalay\kalay\bin\Release\kalay.exe.config
+C:\Users\KKP\Desktop\My Data\kalay\kalay\bin\Release\kalay.exe
+C:\Users\KKP\Desktop\My Data\kalay\kalay\bin\Release\kalay.pdb
+C:\Users\KKP\Desktop\My Data\kalay\kalay\bin\Release\MaterialSkin.dll
+C:\Users\KKP\Desktop\My Data\kalay\kalay\bin\Release\Interop.WMPLib.dll
+C:\Users\KKP\Desktop\My Data\kalay\kalay\bin\Release\AxInterop.WMPLib.dll
+C:\Users\KKP\Desktop\My Data\kalay\kalay\obj\Release\Interop.WMPLib.dll
+C:\Users\KKP\Desktop\My Data\kalay\kalay\obj\Release\AxInterop.WMPLib.dll
+C:\Users\KKP\Desktop\My Data\kalay\kalay\obj\Release\kalay.csproj.ResolveComReference.cache
+C:\Users\KKP\Desktop\My Data\kalay\kalay\obj\Release\Material.Form1.resources
+C:\Users\KKP\Desktop\My Data\kalay\kalay\obj\Release\Material.Form2.resources
+C:\Users\KKP\Desktop\My Data\kalay\kalay\obj\Release\Material.Form3.resources
+C:\Users\KKP\Desktop\My Data\kalay\kalay\obj\Release\Material.Form4.resources
+C:\Users\KKP\Desktop\My Data\kalay\kalay\obj\Release\Material.Form5.resources
+C:\Users\KKP\Desktop\My Data\kalay\kalay\obj\Release\Material.Properties.Resources.resources
+C:\Users\KKP\Desktop\My Data\kalay\kalay\obj\Release\Material.ScoreBoard.resources
+C:\Users\KKP\Desktop\My Data\kalay\kalay\obj\Release\kalay.csproj.GenerateResource.Cache
+C:\Users\KKP\Desktop\My Data\kalay\kalay\obj\Release\kalay.exe
+C:\Users\KKP\Desktop\My Data\kalay\kalay\obj\Release\kalay.pdb
